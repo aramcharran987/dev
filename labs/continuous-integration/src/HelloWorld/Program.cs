@@ -6,7 +6,7 @@ public class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! My name is Amanda Ramcharran");
+        Console.WriteLine("Hello World! Our names are Amanda Ramcharran and Payton Wildrick");
         Console.WriteLine("Hello World! check repo for changes");
         if (args.Length == 1)
         {
